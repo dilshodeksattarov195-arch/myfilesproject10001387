@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondender",
+        "uuid": 13900514,
+        "checksum": "cuc9zg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
